@@ -1,0 +1,8 @@
+#! /bin/bash
+#Bash is the default shell used.
+set -eo pipefail
+
+#include process names here, multiple process name can be used,
+process_names=test
+
+
